@@ -1,0 +1,9 @@
+    "custom/gpuinfo": {
+        "exec": "cat /sys/class/hwmon/hwmon1/temp*_input | cut -c1-2",
+        "return-type": "int",
+        "format": " {}°C",
+        "interval": 5, // once every 5 seconds
+        "tooltip": true,
+        "max-length": 1000
+    },
+

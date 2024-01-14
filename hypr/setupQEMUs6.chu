@@ -1,0 +1,13 @@
+sudo s6-service add default libvirtd
+sudo s6-service add default libvirtd-srv
+sudo virsh net-start default
+
+sudo nano /etc/libvirt/libvirt.conf   
+
+"
+unix_sock_group = "libvirt"
+unix_sock_ro_perms = "0777"
+unix_sock_rw_perms = "0770"
+unix_sock_admin_perms = "0700"
+
+"

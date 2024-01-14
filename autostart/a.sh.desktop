@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/home/ani/a.sh
+Icon=dialog-scripts
+Name=a.sh
+Type=Application
+X-KDE-AutostartScript=true

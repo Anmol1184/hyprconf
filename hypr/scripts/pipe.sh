@@ -1,0 +1,1 @@
+pkill pipewire && pkill pipewire-pulse && pkill wireplumber && pgrep -x pipewire > /dev/null || { pipewire & } && pgrep -x pipewire-pulse > /dev/null || { pipewire-pulse & } && pgrep -x wireplumber > /dev/null || { wireplumber & } && sleep 3

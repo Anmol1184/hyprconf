@@ -1,0 +1,8 @@
+    "custom/power": {
+        "format": "{}",
+        "exec": "echo ; echo  logout",
+        "on-click": "~/.config/rofish/powermenu/type-1/powermenu.sh",
+        "interval" : 86400, // once every day
+        "tooltip": true
+    },
+

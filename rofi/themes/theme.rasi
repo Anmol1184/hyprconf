@@ -1,0 +1,14 @@
+* {
+    main-bg:            #202020E6;
+    main-fg:            #BDBDBD;
+    main-br:            #BDBDBD;
+    main-ex:            #444444;
+    select-bg:          #676767;
+    select-fg:          #DFDFDF;
+    background:         #202020E6;
+    foreground:         #BDBDBD;
+    main-br:            #BDBDBD;
+    main-ex:            #444444;
+    select-bg:          #676767;
+    select-fg:          #DFDFDF;
+}

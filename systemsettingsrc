@@ -1,0 +1,16 @@
+[KFileDialog Settings]
+Recent Files[$e]=a.sh,file:$HOME/a.sh
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=529
+1920x1080 screen: Width=410
+
+[MainWindow]
+1920x1080 screen: XPosition=450
+1920x1080 screen: YPosition=182
+HDMI-1=HDMI-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

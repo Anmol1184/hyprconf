@@ -1,0 +1,11 @@
+2023-12-27 20:28:30.606 [info] Extension host with pid 32687 started
+2023-12-27 20:28:30.693 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-27 20:28:30.764 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-27 20:28:30.826 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-27 20:28:30.868 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-27 20:28:30.923 [info] Eager extensions activated
+2023-12-27 20:28:30.972 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-27 20:28:30.975 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-27 20:28:30.985 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2023-12-27 20:33:00.040 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-27 20:33:00.047 [info] Extension host with pid 32687 exiting with code 0

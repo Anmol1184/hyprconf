@@ -1,0 +1,4 @@
+2023-12-27 20:42:08.965 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-27 20:42:09.023 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/ani/Downloads/core-packages-main/calamares-config/files/calamares/modules/packages.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-12-27 20:42:09.391 [info] Started local extension host with pid 47578.
+2023-12-27 20:42:12.130 [info] [perf] Render performance baseline is 50ms

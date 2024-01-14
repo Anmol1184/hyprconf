@@ -1,0 +1,607 @@
+2024-01-12T15:45:22.727Z [Modules] Modules initializing
+2024-01-12T15:45:22.728Z [Modules] Distribution: remote
+2024-01-12T15:45:22.728Z [Modules] Host updates: enabled
+2024-01-12T15:45:22.728Z [Modules] Module updates: enabled
+2024-01-12T15:45:22.728Z [Modules] Module install path: /home/ani/.config/discord/0.0.40/modules
+2024-01-12T15:45:22.728Z [Modules] Module installed file path: /home/ani/.config/discord/0.0.40/modules/installed.json
+2024-01-12T15:45:22.729Z [Modules] Module download path: /home/ani/.config/discord/0.0.40/modules/pending
+2024-01-12T15:45:22.947Z [Modules] Bootstrapping...
+2024-01-12T15:45:22.948Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-01-12T15:45:22.954Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-01-12T15:45:22.956Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-01-12T15:45:22.961Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-01-12T15:45:22.962Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-01-12T15:45:22.965Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-01-12T15:45:22.966Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-01-12T15:45:22.969Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-01-12T15:45:22.970Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-01-12T15:45:22.973Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-01-12T15:45:22.974Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2024-01-12T15:45:22.974Z [Modules] Checking for host updates.
+2024-01-12T15:45:23.597Z [Modules] Host is up to date.
+2024-01-12T15:45:23.598Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-12T15:45:23.698Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-01-12T15:45:23.698Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-01-12T15:45:23.698Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-01-12T15:45:23.698Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-01-12T15:45:23.698Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-01-12T15:45:23.699Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-01-12T15:45:23.700Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip
+2024-01-12T15:45:24.531Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 1%
+2024-01-12T15:45:24.559Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 2%
+2024-01-12T15:45:24.587Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 5%
+2024-01-12T15:45:24.589Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 6%
+2024-01-12T15:45:24.614Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 9%
+2024-01-12T15:45:24.616Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 12%
+2024-01-12T15:45:24.618Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 14%
+2024-01-12T15:45:24.620Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 15%
+2024-01-12T15:45:24.622Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 19%
+2024-01-12T15:45:24.641Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 22%
+2024-01-12T15:45:24.645Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 25%
+2024-01-12T15:45:24.649Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 30%
+2024-01-12T15:45:24.652Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 31%
+2024-01-12T15:45:24.660Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 32%
+2024-01-12T15:45:24.664Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 33%
+2024-01-12T15:45:24.669Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 34%
+2024-01-12T15:45:24.677Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 35%
+2024-01-12T15:45:24.682Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 36%
+2024-01-12T15:45:24.687Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 37%
+2024-01-12T15:45:24.695Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 38%
+2024-01-12T15:45:24.700Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 39%
+2024-01-12T15:45:24.709Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 40%
+2024-01-12T15:45:24.715Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 41%
+2024-01-12T15:45:24.721Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 42%
+2024-01-12T15:45:24.729Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 43%
+2024-01-12T15:45:24.730Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 44%
+2024-01-12T15:45:24.735Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 45%
+2024-01-12T15:45:24.958Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 48%
+2024-01-12T15:45:24.966Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 49%
+2024-01-12T15:45:24.983Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 51%
+2024-01-12T15:45:24.992Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 54%
+2024-01-12T15:45:25.035Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 57%
+2024-01-12T15:45:25.037Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 61%
+2024-01-12T15:45:25.038Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 67%
+2024-01-12T15:45:25.039Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 73%
+2024-01-12T15:45:25.042Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 79%
+2024-01-12T15:45:25.048Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 85%
+2024-01-12T15:45:25.049Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 91%
+2024-01-12T15:45:25.051Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 95%
+2024-01-12T15:45:25.052Z [Modules] Streaming discord_desktop_core@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip: 100%
+2024-01-12T15:45:25.055Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-01-12T15:45:25.056Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip
+2024-01-12T15:45:25.768Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 3%
+2024-01-12T15:45:25.771Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 7%
+2024-01-12T15:45:25.774Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 12%
+2024-01-12T15:45:25.777Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 17%
+2024-01-12T15:45:25.782Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 22%
+2024-01-12T15:45:25.786Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 23%
+2024-01-12T15:45:25.792Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 24%
+2024-01-12T15:45:25.795Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 25%
+2024-01-12T15:45:25.799Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 26%
+2024-01-12T15:45:25.803Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 27%
+2024-01-12T15:45:25.809Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 28%
+2024-01-12T15:45:25.817Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 29%
+2024-01-12T15:45:25.822Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 30%
+2024-01-12T15:45:25.825Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 31%
+2024-01-12T15:45:25.830Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 32%
+2024-01-12T15:45:25.834Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 33%
+2024-01-12T15:45:25.838Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 34%
+2024-01-12T15:45:25.847Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 35%
+2024-01-12T15:45:25.850Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 36%
+2024-01-12T15:45:25.856Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 37%
+2024-01-12T15:45:25.859Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 38%
+2024-01-12T15:45:25.864Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 39%
+2024-01-12T15:45:26.080Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 41%
+2024-01-12T15:45:26.093Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 44%
+2024-01-12T15:45:26.102Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 47%
+2024-01-12T15:45:26.103Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 48%
+2024-01-12T15:45:26.104Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 52%
+2024-01-12T15:45:26.135Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 56%
+2024-01-12T15:45:26.137Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 60%
+2024-01-12T15:45:26.139Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 70%
+2024-01-12T15:45:26.140Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 72%
+2024-01-12T15:45:26.142Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 73%
+2024-01-12T15:45:26.146Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 76%
+2024-01-12T15:45:26.150Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 77%
+2024-01-12T15:45:26.153Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 81%
+2024-01-12T15:45:26.157Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 82%
+2024-01-12T15:45:26.160Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 84%
+2024-01-12T15:45:26.164Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 88%
+2024-01-12T15:45:26.167Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 94%
+2024-01-12T15:45:26.170Z [Modules] Streaming discord_erlpack@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip: 100%
+2024-01-12T15:45:26.172Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-01-12T15:45:26.172Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip
+2024-01-12T15:45:26.877Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 1%
+2024-01-12T15:45:26.881Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 2%
+2024-01-12T15:45:26.886Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 3%
+2024-01-12T15:45:26.889Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 4%
+2024-01-12T15:45:26.911Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 5%
+2024-01-12T15:45:26.936Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 6%
+2024-01-12T15:45:26.962Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 7%
+2024-01-12T15:45:27.092Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 8%
+2024-01-12T15:45:27.223Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 9%
+2024-01-12T15:45:27.229Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 10%
+2024-01-12T15:45:27.232Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 11%
+2024-01-12T15:45:27.235Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 12%
+2024-01-12T15:45:27.656Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 13%
+2024-01-12T15:45:27.658Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 14%
+2024-01-12T15:45:27.689Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 15%
+2024-01-12T15:45:27.813Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 16%
+2024-01-12T15:45:27.820Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 17%
+2024-01-12T15:45:27.834Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 18%
+2024-01-12T15:45:27.836Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 19%
+2024-01-12T15:45:27.913Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 20%
+2024-01-12T15:45:27.919Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 23%
+2024-01-12T15:45:27.921Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 25%
+2024-01-12T15:45:27.924Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 26%
+2024-01-12T15:45:27.926Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 27%
+2024-01-12T15:45:27.928Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 29%
+2024-01-12T15:45:27.931Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 33%
+2024-01-12T15:45:27.935Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 34%
+2024-01-12T15:45:27.942Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 38%
+2024-01-12T15:45:27.961Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 39%
+2024-01-12T15:45:27.963Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 41%
+2024-01-12T15:45:27.967Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 44%
+2024-01-12T15:45:27.970Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 45%
+2024-01-12T15:45:27.991Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 46%
+2024-01-12T15:45:28.018Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 47%
+2024-01-12T15:45:28.043Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 48%
+2024-01-12T15:45:28.069Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 49%
+2024-01-12T15:45:28.094Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 50%
+2024-01-12T15:45:28.124Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 51%
+2024-01-12T15:45:28.149Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 52%
+2024-01-12T15:45:28.174Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 53%
+2024-01-12T15:45:28.201Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 54%
+2024-01-12T15:45:28.226Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 55%
+2024-01-12T15:45:28.252Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 56%
+2024-01-12T15:45:28.283Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 57%
+2024-01-12T15:45:28.308Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 58%
+2024-01-12T15:45:28.333Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 59%
+2024-01-12T15:45:28.359Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 60%
+2024-01-12T15:45:28.384Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 61%
+2024-01-12T15:45:28.415Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 62%
+2024-01-12T15:45:28.440Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 63%
+2024-01-12T15:45:28.466Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 64%
+2024-01-12T15:45:28.491Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 65%
+2024-01-12T15:45:28.517Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 66%
+2024-01-12T15:45:28.542Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 67%
+2024-01-12T15:45:28.572Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 68%
+2024-01-12T15:45:28.598Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 69%
+2024-01-12T15:45:28.624Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 70%
+2024-01-12T15:45:28.650Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 71%
+2024-01-12T15:45:28.675Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 72%
+2024-01-12T15:45:28.701Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 73%
+2024-01-12T15:45:28.730Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 74%
+2024-01-12T15:45:28.756Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 75%
+2024-01-12T15:45:28.782Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 76%
+2024-01-12T15:45:28.807Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 77%
+2024-01-12T15:45:28.833Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 78%
+2024-01-12T15:45:28.863Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 79%
+2024-01-12T15:45:28.889Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 80%
+2024-01-12T15:45:28.914Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 81%
+2024-01-12T15:45:28.940Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 82%
+2024-01-12T15:45:28.965Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 83%
+2024-01-12T15:45:28.992Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 84%
+2024-01-12T15:45:29.022Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 85%
+2024-01-12T15:45:29.047Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 86%
+2024-01-12T15:45:29.073Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 87%
+2024-01-12T15:45:29.098Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 88%
+2024-01-12T15:45:29.124Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 89%
+2024-01-12T15:45:29.149Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 90%
+2024-01-12T15:45:29.179Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 91%
+2024-01-12T15:45:29.205Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 92%
+2024-01-12T15:45:29.231Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 93%
+2024-01-12T15:45:29.258Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 94%
+2024-01-12T15:45:29.283Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 95%
+2024-01-12T15:45:29.313Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 96%
+2024-01-12T15:45:29.339Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 97%
+2024-01-12T15:45:29.365Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 98%
+2024-01-12T15:45:29.391Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 99%
+2024-01-12T15:45:29.413Z [Modules] Streaming discord_spellcheck@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip: 100%
+2024-01-12T15:45:29.416Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-01-12T15:45:29.417Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip
+2024-01-12T15:45:30.201Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 1%
+2024-01-12T15:45:30.210Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 2%
+2024-01-12T15:45:30.219Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 3%
+2024-01-12T15:45:30.227Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 4%
+2024-01-12T15:45:30.235Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 5%
+2024-01-12T15:45:30.244Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 6%
+2024-01-12T15:45:30.252Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 7%
+2024-01-12T15:45:30.261Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 8%
+2024-01-12T15:45:30.270Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 9%
+2024-01-12T15:45:30.277Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 10%
+2024-01-12T15:45:30.281Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 11%
+2024-01-12T15:45:30.290Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 12%
+2024-01-12T15:45:30.299Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 13%
+2024-01-12T15:45:30.307Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 14%
+2024-01-12T15:45:30.315Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 15%
+2024-01-12T15:45:30.324Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 16%
+2024-01-12T15:45:30.331Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 17%
+2024-01-12T15:45:30.339Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 18%
+2024-01-12T15:45:30.345Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 19%
+2024-01-12T15:45:30.352Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 20%
+2024-01-12T15:45:30.356Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 21%
+2024-01-12T15:45:30.363Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 22%
+2024-01-12T15:45:30.370Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 23%
+2024-01-12T15:45:30.394Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 25%
+2024-01-12T15:45:30.403Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 27%
+2024-01-12T15:45:30.432Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 30%
+2024-01-12T15:45:30.464Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 34%
+2024-01-12T15:45:30.481Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 38%
+2024-01-12T15:45:30.486Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 42%
+2024-01-12T15:45:30.491Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 43%
+2024-01-12T15:45:30.497Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 45%
+2024-01-12T15:45:30.557Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 49%
+2024-01-12T15:45:30.560Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 51%
+2024-01-12T15:45:30.569Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 55%
+2024-01-12T15:45:30.572Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 57%
+2024-01-12T15:45:30.573Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 59%
+2024-01-12T15:45:30.580Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 60%
+2024-01-12T15:45:30.589Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 61%
+2024-01-12T15:45:30.597Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 62%
+2024-01-12T15:45:30.606Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 63%
+2024-01-12T15:45:30.613Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 64%
+2024-01-12T15:45:30.623Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 65%
+2024-01-12T15:45:30.631Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 66%
+2024-01-12T15:45:30.640Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 67%
+2024-01-12T15:45:30.648Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 68%
+2024-01-12T15:45:30.653Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 69%
+2024-01-12T15:45:30.690Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 72%
+2024-01-12T15:45:30.691Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 73%
+2024-01-12T15:45:30.696Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 74%
+2024-01-12T15:45:30.704Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 75%
+2024-01-12T15:45:30.712Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 76%
+2024-01-12T15:45:30.720Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 77%
+2024-01-12T15:45:30.726Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 78%
+2024-01-12T15:45:30.733Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 79%
+2024-01-12T15:45:30.742Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 80%
+2024-01-12T15:45:30.750Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 81%
+2024-01-12T15:45:30.760Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 82%
+2024-01-12T15:45:30.768Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 83%
+2024-01-12T15:45:30.777Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 84%
+2024-01-12T15:45:30.784Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 85%
+2024-01-12T15:45:30.793Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 86%
+2024-01-12T15:45:30.801Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 87%
+2024-01-12T15:45:30.808Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 88%
+2024-01-12T15:45:30.814Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 89%
+2024-01-12T15:45:30.822Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 90%
+2024-01-12T15:45:30.832Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 91%
+2024-01-12T15:45:30.840Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 92%
+2024-01-12T15:45:30.847Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 93%
+2024-01-12T15:45:30.857Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 94%
+2024-01-12T15:45:30.866Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 95%
+2024-01-12T15:45:30.875Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 96%
+2024-01-12T15:45:30.879Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 97%
+2024-01-12T15:45:30.888Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 98%
+2024-01-12T15:45:30.897Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 99%
+2024-01-12T15:45:30.902Z [Modules] Streaming discord_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip: 100%
+2024-01-12T15:45:30.903Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-01-12T15:45:30.904Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip
+2024-01-12T15:45:31.712Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 1%
+2024-01-12T15:45:31.761Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 2%
+2024-01-12T15:45:31.800Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 3%
+2024-01-12T15:45:31.845Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 4%
+2024-01-12T15:45:31.913Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 5%
+2024-01-12T15:45:31.986Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 6%
+2024-01-12T15:45:32.148Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 7%
+2024-01-12T15:45:32.167Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 8%
+2024-01-12T15:45:32.248Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 9%
+2024-01-12T15:45:32.367Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 10%
+2024-01-12T15:45:32.427Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 11%
+2024-01-12T15:45:32.497Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 12%
+2024-01-12T15:45:32.574Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 13%
+2024-01-12T15:45:32.641Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 14%
+2024-01-12T15:45:32.707Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 15%
+2024-01-12T15:45:32.743Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 16%
+2024-01-12T15:45:32.813Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 17%
+2024-01-12T15:45:32.895Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 18%
+2024-01-12T15:45:32.954Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 19%
+2024-01-12T15:45:32.984Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 20%
+2024-01-12T15:45:33.034Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 21%
+2024-01-12T15:45:33.102Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 22%
+2024-01-12T15:45:33.171Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 23%
+2024-01-12T15:45:33.244Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 24%
+2024-01-12T15:45:33.312Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 25%
+2024-01-12T15:45:33.380Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 26%
+2024-01-12T15:45:33.453Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 27%
+2024-01-12T15:45:33.520Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 28%
+2024-01-12T15:45:33.589Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 29%
+2024-01-12T15:45:33.660Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 30%
+2024-01-12T15:45:33.733Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 31%
+2024-01-12T15:45:33.800Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 32%
+2024-01-12T15:45:33.867Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 33%
+2024-01-12T15:45:33.941Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 34%
+2024-01-12T15:45:34.011Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 35%
+2024-01-12T15:45:34.078Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 36%
+2024-01-12T15:45:34.151Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 37%
+2024-01-12T15:45:34.219Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 38%
+2024-01-12T15:45:34.288Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 39%
+2024-01-12T15:45:34.360Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 40%
+2024-01-12T15:45:34.429Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 41%
+2024-01-12T15:45:34.497Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 42%
+2024-01-12T15:45:34.570Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 43%
+2024-01-12T15:45:34.638Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 44%
+2024-01-12T15:45:34.707Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 45%
+2024-01-12T15:45:34.780Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 46%
+2024-01-12T15:45:34.848Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 47%
+2024-01-12T15:45:34.917Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 48%
+2024-01-12T15:45:34.989Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 49%
+2024-01-12T15:45:35.058Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 50%
+2024-01-12T15:45:35.126Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 51%
+2024-01-12T15:45:35.199Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 52%
+2024-01-12T15:45:35.266Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 53%
+2024-01-12T15:45:35.335Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 54%
+2024-01-12T15:45:35.408Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 55%
+2024-01-12T15:45:35.476Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 56%
+2024-01-12T15:45:35.570Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 57%
+2024-01-12T15:45:35.623Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 58%
+2024-01-12T15:45:35.686Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 59%
+2024-01-12T15:45:35.754Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 60%
+2024-01-12T15:45:35.826Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 61%
+2024-01-12T15:45:35.895Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 62%
+2024-01-12T15:45:35.964Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 63%
+2024-01-12T15:45:36.036Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 64%
+2024-01-12T15:45:36.106Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 65%
+2024-01-12T15:45:36.174Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 66%
+2024-01-12T15:45:36.247Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 67%
+2024-01-12T15:45:36.316Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 68%
+2024-01-12T15:45:36.383Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 69%
+2024-01-12T15:45:36.456Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 70%
+2024-01-12T15:45:36.523Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 71%
+2024-01-12T15:45:36.592Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 72%
+2024-01-12T15:45:36.665Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 73%
+2024-01-12T15:45:36.733Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 74%
+2024-01-12T15:45:36.802Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 75%
+2024-01-12T15:45:36.875Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 76%
+2024-01-12T15:45:36.943Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 77%
+2024-01-12T15:45:37.011Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 78%
+2024-01-12T15:45:37.084Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 79%
+2024-01-12T15:45:37.152Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 80%
+2024-01-12T15:45:37.221Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 81%
+2024-01-12T15:45:37.294Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 82%
+2024-01-12T15:45:37.362Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 83%
+2024-01-12T15:45:37.430Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 84%
+2024-01-12T15:45:37.503Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 85%
+2024-01-12T15:45:37.571Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 86%
+2024-01-12T15:45:37.639Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 87%
+2024-01-12T15:45:37.713Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 88%
+2024-01-12T15:45:37.782Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 89%
+2024-01-12T15:45:37.849Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 90%
+2024-01-12T15:45:37.921Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 91%
+2024-01-12T15:45:37.990Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 92%
+2024-01-12T15:45:38.057Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 93%
+2024-01-12T15:45:38.127Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 94%
+2024-01-12T15:45:38.200Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 95%
+2024-01-12T15:45:38.269Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 96%
+2024-01-12T15:45:38.336Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 97%
+2024-01-12T15:45:38.409Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 98%
+2024-01-12T15:45:38.477Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 99%
+2024-01-12T15:45:38.544Z [Modules] Streaming discord_voice@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip: 100%
+2024-01-12T15:45:38.546Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2024-01-12T15:45:38.546Z [Modules] Installing updates...
+2024-01-12T15:45:38.546Z [Modules] Installing discord_desktop_core@1 from /home/ani/.config/discord/0.0.40/modules/pending/discord_desktop_core-1.zip
+2024-01-12T15:45:38.693Z [Modules] Installing discord_erlpack@1 from /home/ani/.config/discord/0.0.40/modules/pending/discord_erlpack-1.zip
+2024-01-12T15:45:38.788Z [Modules] Installing discord_spellcheck@1 from /home/ani/.config/discord/0.0.40/modules/pending/discord_spellcheck-1.zip
+2024-01-12T15:45:40.482Z [Modules] Installing discord_utils@1 from /home/ani/.config/discord/0.0.40/modules/pending/discord_utils-1.zip
+2024-01-12T15:45:40.756Z [Modules] Installing discord_voice@1 from /home/ani/.config/discord/0.0.40/modules/pending/discord_voice-1.zip
+2024-01-12T15:45:42.137Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2024-01-12T15:45:42.137Z [Modules] Checking for host updates.
+2024-01-12T15:45:42.549Z [Modules] Host is up to date.
+2024-01-12T15:45:42.549Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-12T15:45:42.554Z [Modules] No module updates available.
+2024-01-12T15:45:44.882Z [Modules] Starting to install discord_krisp...
+2024-01-12T15:45:44.883Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-01-12T15:45:44.883Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip
+2024-01-12T15:45:44.897Z [Modules] Starting to install discord_game_utils...
+2024-01-12T15:45:45.599Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 1%
+2024-01-12T15:45:45.819Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 2%
+2024-01-12T15:45:45.882Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 3%
+2024-01-12T15:45:45.942Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 4%
+2024-01-12T15:45:46.002Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 5%
+2024-01-12T15:45:46.063Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 6%
+2024-01-12T15:45:46.122Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 7%
+2024-01-12T15:45:46.142Z [Modules] Checking for host updates.
+2024-01-12T15:45:46.185Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 8%
+2024-01-12T15:45:46.246Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 9%
+2024-01-12T15:45:46.306Z [Modules] Starting to install discord_rpc...
+2024-01-12T15:45:46.307Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 10%
+2024-01-12T15:45:46.361Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 11%
+2024-01-12T15:45:46.424Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 12%
+2024-01-12T15:45:46.482Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 13%
+2024-01-12T15:45:46.541Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 14%
+2024-01-12T15:45:46.647Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 15%
+2024-01-12T15:45:46.695Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 16%
+2024-01-12T15:45:46.714Z [Modules] Host is up to date.
+2024-01-12T15:45:46.714Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-12T15:45:46.724Z [Modules] No module updates available.
+2024-01-12T15:45:46.762Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 17%
+2024-01-12T15:45:46.814Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 18%
+2024-01-12T15:45:46.874Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 19%
+2024-01-12T15:45:47.026Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 20%
+2024-01-12T15:45:47.028Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 21%
+2024-01-12T15:45:47.051Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 22%
+2024-01-12T15:45:47.110Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 23%
+2024-01-12T15:45:47.170Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 24%
+2024-01-12T15:45:47.230Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 25%
+2024-01-12T15:45:47.290Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 26%
+2024-01-12T15:45:47.411Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 27%
+2024-01-12T15:45:47.413Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 28%
+2024-01-12T15:45:47.469Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 29%
+2024-01-12T15:45:47.525Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 30%
+2024-01-12T15:45:47.585Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 31%
+2024-01-12T15:45:47.645Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 32%
+2024-01-12T15:45:47.793Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 33%
+2024-01-12T15:45:47.794Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 34%
+2024-01-12T15:45:47.826Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 35%
+2024-01-12T15:45:47.885Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 36%
+2024-01-12T15:45:47.946Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 37%
+2024-01-12T15:45:48.006Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 38%
+2024-01-12T15:45:48.065Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 39%
+2024-01-12T15:45:48.120Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 40%
+2024-01-12T15:45:48.180Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 41%
+2024-01-12T15:45:48.240Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 42%
+2024-01-12T15:45:48.299Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 43%
+2024-01-12T15:45:48.360Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 44%
+2024-01-12T15:45:48.420Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 45%
+2024-01-12T15:45:48.480Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 46%
+2024-01-12T15:45:48.539Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 47%
+2024-01-12T15:45:48.599Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 48%
+2024-01-12T15:45:48.655Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 49%
+2024-01-12T15:45:48.715Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 50%
+2024-01-12T15:45:48.775Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 51%
+2024-01-12T15:45:48.834Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 52%
+2024-01-12T15:45:48.894Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 53%
+2024-01-12T15:45:48.954Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 54%
+2024-01-12T15:45:49.014Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 55%
+2024-01-12T15:45:49.073Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 56%
+2024-01-12T15:45:49.133Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 57%
+2024-01-12T15:45:49.194Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 58%
+2024-01-12T15:45:49.251Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 59%
+2024-01-12T15:45:49.310Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 60%
+2024-01-12T15:45:49.371Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 61%
+2024-01-12T15:45:49.430Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 62%
+2024-01-12T15:45:49.494Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 63%
+2024-01-12T15:45:49.550Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 64%
+2024-01-12T15:45:49.709Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 65%
+2024-01-12T15:45:49.720Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 66%
+2024-01-12T15:45:49.731Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 67%
+2024-01-12T15:45:49.789Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 68%
+2024-01-12T15:45:49.845Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 69%
+2024-01-12T15:45:49.905Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 70%
+2024-01-12T15:45:50.054Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 71%
+2024-01-12T15:45:50.093Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 72%
+2024-01-12T15:45:50.095Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 73%
+2024-01-12T15:45:50.144Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 74%
+2024-01-12T15:45:50.204Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 75%
+2024-01-12T15:45:50.265Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 76%
+2024-01-12T15:45:50.324Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 77%
+2024-01-12T15:45:50.379Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 78%
+2024-01-12T15:45:50.440Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 79%
+2024-01-12T15:45:50.505Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 80%
+2024-01-12T15:45:50.558Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 81%
+2024-01-12T15:45:50.619Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 82%
+2024-01-12T15:45:50.679Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 83%
+2024-01-12T15:45:50.738Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 84%
+2024-01-12T15:45:50.798Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 85%
+2024-01-12T15:45:50.858Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 86%
+2024-01-12T15:45:50.984Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 87%
+2024-01-12T15:45:51.247Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 88%
+2024-01-12T15:45:51.273Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 89%
+2024-01-12T15:45:51.284Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 90%
+2024-01-12T15:45:51.297Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 91%
+2024-01-12T15:45:51.456Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 92%
+2024-01-12T15:45:51.498Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 93%
+2024-01-12T15:45:51.500Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 94%
+2024-01-12T15:45:51.501Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 95%
+2024-01-12T15:45:51.502Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 96%
+2024-01-12T15:45:51.508Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 97%
+2024-01-12T15:45:51.567Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 98%
+2024-01-12T15:45:51.627Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 99%
+2024-01-12T15:45:51.685Z [Modules] Streaming discord_krisp@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip: 100%
+2024-01-12T15:45:51.686Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-01-12T15:45:51.686Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip
+2024-01-12T15:45:51.686Z [Modules] Installing discord_krisp@1 from /home/ani/.config/discord/0.0.40/modules/pending/discord_krisp-1.zip
+2024-01-12T15:45:52.158Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 1%
+2024-01-12T15:45:52.166Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 2%
+2024-01-12T15:45:52.171Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 3%
+2024-01-12T15:45:52.179Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 4%
+2024-01-12T15:45:52.184Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 5%
+2024-01-12T15:45:52.191Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 6%
+2024-01-12T15:45:52.195Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 7%
+2024-01-12T15:45:52.203Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 8%
+2024-01-12T15:45:52.208Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 9%
+2024-01-12T15:45:52.214Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 10%
+2024-01-12T15:45:52.221Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 11%
+2024-01-12T15:45:52.224Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 12%
+2024-01-12T15:45:52.231Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 13%
+2024-01-12T15:45:52.234Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 14%
+2024-01-12T15:45:52.241Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 15%
+2024-01-12T15:45:52.244Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 16%
+2024-01-12T15:45:52.250Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 17%
+2024-01-12T15:45:52.254Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 18%
+2024-01-12T15:45:52.259Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 19%
+2024-01-12T15:45:52.262Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 20%
+2024-01-12T15:45:52.267Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 21%
+2024-01-12T15:45:52.272Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 22%
+2024-01-12T15:45:52.275Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 23%
+2024-01-12T15:45:52.280Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 24%
+2024-01-12T15:45:52.283Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 25%
+2024-01-12T15:45:52.288Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 26%
+2024-01-12T15:45:52.291Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 27%
+2024-01-12T15:45:52.295Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 28%
+2024-01-12T15:45:52.300Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 29%
+2024-01-12T15:45:52.304Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 31%
+2024-01-12T15:45:52.309Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 32%
+2024-01-12T15:45:52.316Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 34%
+2024-01-12T15:45:52.328Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 36%
+2024-01-12T15:45:52.331Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 38%
+2024-01-12T15:45:52.339Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 41%
+2024-01-12T15:45:52.340Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 42%
+2024-01-12T15:45:52.344Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 43%
+2024-01-12T15:45:52.349Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 45%
+2024-01-12T15:45:52.351Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 46%
+2024-01-12T15:45:52.361Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 47%
+2024-01-12T15:45:52.369Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 48%
+2024-01-12T15:45:52.374Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 49%
+2024-01-12T15:45:52.381Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 50%
+2024-01-12T15:45:52.387Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 51%
+2024-01-12T15:45:52.395Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 52%
+2024-01-12T15:45:52.400Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 53%
+2024-01-12T15:45:52.408Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 54%
+2024-01-12T15:45:52.413Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 55%
+2024-01-12T15:45:52.420Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-01-12T15:45:52.421Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 56%
+2024-01-12T15:45:52.425Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 57%
+2024-01-12T15:45:52.432Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 58%
+2024-01-12T15:45:52.442Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 59%
+2024-01-12T15:45:52.445Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 60%
+2024-01-12T15:45:52.455Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 61%
+2024-01-12T15:45:52.459Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 62%
+2024-01-12T15:45:52.468Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 63%
+2024-01-12T15:45:52.472Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 64%
+2024-01-12T15:45:52.480Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 65%
+2024-01-12T15:45:52.485Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 66%
+2024-01-12T15:45:52.493Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 67%
+2024-01-12T15:45:52.497Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 68%
+2024-01-12T15:45:52.610Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 69%
+2024-01-12T15:45:52.613Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 70%
+2024-01-12T15:45:52.619Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 71%
+2024-01-12T15:45:52.626Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 72%
+2024-01-12T15:45:52.628Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 73%
+2024-01-12T15:45:52.632Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 74%
+2024-01-12T15:45:52.634Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 75%
+2024-01-12T15:45:52.640Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 76%
+2024-01-12T15:45:52.647Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 77%
+2024-01-12T15:45:52.653Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 78%
+2024-01-12T15:45:52.657Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 79%
+2024-01-12T15:45:52.662Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 80%
+2024-01-12T15:45:52.666Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 81%
+2024-01-12T15:45:52.674Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 82%
+2024-01-12T15:45:52.681Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 83%
+2024-01-12T15:45:52.689Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 86%
+2024-01-12T15:45:52.690Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 89%
+2024-01-12T15:45:52.691Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 92%
+2024-01-12T15:45:52.692Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 94%
+2024-01-12T15:45:52.693Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 97%
+2024-01-12T15:45:52.699Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 98%
+2024-01-12T15:45:52.728Z [Modules] Streaming discord_game_utils@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip: 100%
+2024-01-12T15:45:52.730Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-01-12T15:45:52.730Z [Modules] Streaming discord_rpc@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_rpc-1.zip
+2024-01-12T15:45:52.730Z [Modules] Installing discord_game_utils@1 from /home/ani/.config/discord/0.0.40/modules/pending/discord_game_utils-1.zip
+2024-01-12T15:45:52.859Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-01-12T15:45:53.185Z [Modules] Streaming discord_rpc@1 to /home/ani/.config/discord/0.0.40/modules/pending/discord_rpc-1.zip: 100%
+2024-01-12T15:45:53.186Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2024-01-12T15:45:53.187Z [Modules] Installing discord_rpc@1 from /home/ani/.config/discord/0.0.40/modules/pending/discord_rpc-1.zip
+2024-01-12T15:45:53.214Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-01-12T16:45:46.146Z [Modules] Checking for host updates.
+2024-01-12T16:45:46.615Z [Modules] Host is up to date.
+2024-01-12T16:45:46.616Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-12T16:45:46.674Z [Modules] No module updates available.
+2024-01-12T17:45:46.143Z [Modules] Checking for host updates.
+2024-01-12T17:45:46.578Z [Modules] Host is up to date.
+2024-01-12T17:45:46.578Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-12T17:45:46.653Z [Modules] No module updates available.
+2024-01-12T18:45:46.143Z [Modules] Checking for host updates.
+2024-01-12T18:45:46.564Z [Modules] Host is up to date.
+2024-01-12T18:45:46.564Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-12T18:45:46.616Z [Modules] No module updates available.

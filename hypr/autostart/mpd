@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=mpd
+Comment=Start the mpd
+Icon=mpd
+Exec=mpd
+Terminal=false
+Type=Application
+NoDisplay=true
