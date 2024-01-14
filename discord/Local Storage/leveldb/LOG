@@ -1,5 +1,0 @@
-2024/01/12-21:15:22.721 3f21 Creating DB /home/ani/.config/discord/Local Storage/leveldb since it was missing.
-2024/01/12-21:15:22.739 3f21 Reusing MANIFEST /home/ani/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/01/12-21:19:21.108 3efb Level-0 table #5: started
-2024/01/12-21:19:21.142 3efb Level-0 table #5: 2771198 bytes OK
-2024/01/12-21:19:21.154 3efb Delete type=0 #3
